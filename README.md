@@ -25,7 +25,7 @@ This is a quoue code too.
 #### Link
 This is a link to [Google](https://www.google.com/)
 
-##### [](https://www.google.com/)This is a section link to Google
+This [relative link](./Test/blob/main/sky.jpeg) goes to the sky image.
 
 
 <img src="https://user-images.githubusercontent.com/106911494/178134448-8a411889-3bee-4126-ab08-9a06dd1cf089.jpeg" width="200"/>
