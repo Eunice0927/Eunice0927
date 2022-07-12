@@ -1,10 +1,16 @@
 - [x] View the MarkDown Document
 - [x] Install the Xcode and print "Hello World" with `Playground`
-- [ ] Make an account in Github and study MarkDown syntext
+- [x] Make an account in Github and study MarkDown syntax
+- [ ] Answer below questions.
+  - [ ] var 와 let의 차이점에 대해 서술하고 그 예제 코드 작성
+  - [ ] 반복문(Loop)의 종류와 1~10까지 출력하는 코드 작성
+  - [ ] 타입 추론(Type Inference)이란?
+  - [ ] 논리연산자(Boolean Logic) 인 AND(&&) 와 OR(||) 로 나올 수 있는 경우의 수 4가지
+
 
 <br/>
 
-## Headings
+## MarkDown Syntax
 
 #### Styling Text
 - **Bold**
