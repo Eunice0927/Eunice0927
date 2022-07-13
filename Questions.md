@@ -160,17 +160,17 @@ var a = 10;	// number
 
 ### AND(&&)
 ```javascript
-alert( true && true );   // true
-alert( false && true );  // false
-alert( true && false );  // false
-alert( false && false ); // false
+console.log( true && true );   // true
+console.log( false && true );  // false
+console.log( true && false );  // false
+console.log( false && false ); // false
 ```
 
 ### OR(||)
 ```javascript
-alert( true || true );   // true
-alert( false || true );  // true
-alert( true || false );  // true
-alert( false || false ); // false
+console.log( true || true );   // true
+console.log( false || true );  // true
+console.log( true || false );  // true
+console.log( false || false ); // false
 ```
 
