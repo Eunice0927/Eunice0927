@@ -3,8 +3,8 @@
 - [x] Make an account in Github and study MarkDown syntax
 - [ ] [Answer below questions.](#questions)
   - [ ] [var 와 let의 차이점에 대해 서술하고 그 예제 코드 작성](#var-와-let의-차이점에-대해-서술하고-그-예제-코드-작성)
-  - [ ] 반복문(Loop)의 종류와 1~10까지 출력하는 코드 작성
-  - [ ] 타입 추론(Type Inference)이란?
+  - [ ] [반복문(Loop)의 종류와 1부터 10까지 출력하는 코드 작성](#반복문loop의-종류와-1부터-10까지-출력하는-코드-작성)
+  - [ ] [타입 추론(Type Inference)이란?](#타입-추론type-inference이란)
   - [ ] 논리연산자(Boolean Logic) 인 AND(&&) 와 OR(||) 로 나올 수 있는 경우의 수 4가지
 
 
@@ -125,7 +125,67 @@ sample2 = 1; // 할당문에서 할당 단계 실행
 console.log(sample2); // 1
 ```
 
-### 
+### 반복문(Loop)의 종류와 1부터 10까지 출력하는 코드 작성
+1. For
+```javascript
+for (let i = 1; i < 11; i++){
+    console.log(i); // 0~10까지 출력
+}
+```
+2. while
+```javascriptvar 
+j = 1;
+
+while (j < 11) { 
+    console.log(j); // 0~10까지 출력
+    j++; 
+}
+```
+3. for in
+```javascript
+const obj= {
+    a: 1,
+    b: 2,
+    c: 3,
+    d: 4,
+    e: 5,
+    f: 6,
+    g: 7,
+    h: 8,
+    k: 9,
+    l: 10,
+}
+
+for (let i in obj) {
+    console.log(obj[i]);
+}
+```
+4. for of
+```javascript
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+for (const value of numbers) {
+    console.log(value);
+}
+```
+5. for each
+```javascript
+const numbers2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+numbers2.forEach(element => console.log(element));
+```
+6. do while
+```javascript
+var j = 1
+do {
+	console.log(j);
+    j++ 
+} while (j < 11);
+```
+
+### 타입 추론(Type Inference)이란?
+타입추론(Type Inference) 이란 타입스크립트가 코드를 해석해나가는 동작을 의미한다.
+
 
 
 <img src="https://user-images.githubusercontent.com/106911494/178134448-8a411889-3bee-4126-ab08-9a06dd1cf089.jpeg" width="200"/>
