@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eunice0927
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning iOS
+- 🌱 I’m currently learning iOS development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jes.e.0927@gamil.com
 
