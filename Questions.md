@@ -1,4 +1,10 @@
-## Questions
+Answer below questions.
+- [x] [var 와 let의 차이점에 대해 서술하고 그 예제 코드 작성](#var-와-let의-차이점에-대해-서술하고-그-예제-코드-작성)
+- [x] [반복문(Loop)의 종류와 1부터 10까지 출력하는 코드 작성](#반복문loop의-종류와-1부터-10까지-출력하는-코드-작성)
+- [ ] [타입 추론(Type Inference)이란?](#타입-추론type-inference이란)
+- [ ] 논리연산자(Boolean Logic) 인 AND(&&) 와 OR(||) 로 나올 수 있는 경우의 수 4가지
+
+# Questions
 
 ### var 와 let의 차이점에 대해 서술하고 그 예제 코드 작성
 
