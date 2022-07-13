@@ -1,7 +1,7 @@
 - [x] View the MarkDown Document
 - [x] Install the Xcode and print "Hello World" with `Playground`
 - [x] Make an account in Github and study MarkDown syntax
-- [ ] [Answer below questions.](/Questions.md)
+- [x] [Answer below questions.](/Questions.md)
 
 
 <br/>
