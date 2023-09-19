@@ -2,6 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning iOS development
 - 📫 How to reach me jes.e.0927@gamil.com
+- 💞️ I love to travel✈️
 
 <img src="https://user-images.githubusercontent.com/106911494/178134448-8a411889-3bee-4126-ab08-9a06dd1cf089.jpeg" width="200"/>
 
