@@ -18,8 +18,8 @@
 <br/>
 
 ## Studying
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=30><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height=30><img src="https://img.shields.io/badge/swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" height=30>
-<br/>
+<img src="https://img.shields.io/badge/swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" height=30><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=30><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height=30>
+<br/><br/>
 ## Projects
 #### 개인 프로젝트 / UIKit / 화장품 성분 OCR iOS 앱 개발 &nbsp;[링크]()(업데이트 예정)
 - Google MLKit을 활용한 이미지내 텍스트 인식
