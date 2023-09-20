@@ -1,6 +1,6 @@
 # <p align=center> JEONG, Eunsu</p>
 ### <p align=right>Contact <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=matilto%3Ajes.e.0927%40gmail.com" height=20></p>
-### <p align=right>eunice <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=20><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height=20><img src="https://img.shields.io/badge/swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" height=20><img src="https://img.shields.io/badge/INFJ-%235a5a5a?style=for-the-badge&label=MBTI&labelColor=%239b99f8" height=20></p> 
+### <p align=right>eunice <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=20><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height=20><img src="https://img.shields.io/badge/swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" height=20></p> 
 ## Introduction
 경영학 학사, 소프트웨어전공 석사 졸업 후 iOS 앱 개발자 포지션에 도전하고 있습니다.  
 약 5년의 이전 직장 경력을 가지고 있어 타 부서와의 협업이나 팀원간의 커뮤니케이션 스킬에 자신있습니다.  
