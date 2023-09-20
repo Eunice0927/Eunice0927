@@ -1,6 +1,6 @@
 # <p align=center> JEONG, Eunsu</p>
-#### <p align=right>Contact <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height=16></p>
-#### <p align=right>eunice <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=16><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height=16><img src="https://img.shields.io/badge/swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" height=16></p> 
+### <p align=right>Contact <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" height=20></p>
+### <p align=right>eunice <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" height=20><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" height=20><img src="https://img.shields.io/badge/swift-%23F05138?style=for-the-badge&logo=swift&logoColor=white" height=20></p> 
 ## Introduction
 경영학 학사, 소프트웨어전공 석사 졸업 후 iOS 앱 개발자 포지션에 도전하고 있습니다.  
 약 5년의 이전 직장 경력을 가지고 있어 타 부서와의 협업이나 팀원간의 커뮤니케이션 스킬에 자신있습니다.  
@@ -15,6 +15,16 @@
 - 타 부서 및 팀원간 원활한 협업 및 커뮤니케이션
 - 일도 기술도 빨리 배우는 Fast Learner
 - 비즈니스 영어 및 기초 회화 프랑스어
+<br/>
+
+## Projects
+#### 개인 프로젝트 / UIKit / 화장품 성분 OCR iOS 앱 개발 &nbsp;[링크]()(업데이트 예정)
+- Google MLKit을 활용한 이미지내 텍스트 인식
+- 공공데이터포털 API 활용
+#### 개인 프로젝트 / Python / 수영 알리미 &nbsp;[링크]()(업데이트 예정)
+- Python으로 크롤링 코드 작성
+- 크롤링 결과에 따른 문화센터 잔여석 알림 메세지를 Slack으로 발송
+- 프로그램 정상 작동 모니터링 메세지를 Slack으로 1시간 간격 발송
 <br/>
 
 ## Career 
@@ -63,5 +73,3 @@
 - 리테일러별 커미션 관리 및 청구<br/>
 </details>
 <br/>
-## Projects
-#### 개인 프로젝트 / 화장품 성분 OCR iOS 앱 개발 [링크 업데이트 예정]()
