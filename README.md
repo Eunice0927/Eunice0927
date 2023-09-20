@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning iOS development
 - 📫 How to reach me jes.e.0927@gamil.com
 - 💞️ I love to travel✈️
-- Click [link](https://github.com/Eunice0927/Eunice0927/blob/2e8d475c6a83859d4161a5be97d41b94b1fe30bf/Resume.md) to see my resume! ☺️
+- Click [link](https://github.com/Eunice0927/Eunice0927/blob/main/README.md) to see my resume! ☺️
 
 |Korea|Australia|Bali|Thailand|
 |:-:|:-:|:-:|:-:|
