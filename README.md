@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eunice0927
-- 👀 I’m interested in ...
+- 👀 I’m interested in Swimming!!
 - 🌱 I’m currently learning iOS development
 - 📫 How to reach me jes.e.0927@gamil.com
 - 💞️ I love to travel✈️
