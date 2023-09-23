@@ -2,7 +2,7 @@
 # <p align=center>JEONG, Eunsu</p>
 
 ### <p align=right>Eunice</p>
-<p align=right>Contact: jes.e.0927@gmail.com</p>
+<p align=right>Contact: <a href="mailto:jes.e.0927@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/GMAIL-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 <p align=right><img src="https://img.shields.io/badge/INFJ-%235a5a5a?style=for-the-badge&label=MBTI&labelColor=%239b99f8" height=20></p> 
 
 ## Introduction
