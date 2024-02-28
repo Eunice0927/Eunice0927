@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning iOS development
 - 📫 How to reach me jes.e.0927@gamil.com
 - 💞️ I love to travel✈️
-- 🔗 Click [link](Resume.md) to see my resume! ☺️
+- 🔗 Click [link](https://agate-silence-45e.notion.site/notion-96991237e87547aaac63b09b893e91b9?pvs=4) to see my resume! ☺️
 
 |Korea|Australia|Bali|Thailand|
 |:-:|:-:|:-:|:-:|
